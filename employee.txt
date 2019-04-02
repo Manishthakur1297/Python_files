@@ -1,0 +1,5 @@
+Manish|21|80000|Programmer
+wed|2|22|eew
+MJ|23|432|wdfgh
+Shubham|22|100000|Clerk
+Rahul|34|345|efefdfw
